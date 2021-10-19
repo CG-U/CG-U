@@ -1,0 +1,3 @@
+title=<ridesage>
+author=<cedrick>
+orientation=<portrait | landscape>
